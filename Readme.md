@@ -63,9 +63,9 @@ numbers of sentences.
 
 The program creates a copy of its source files for archival purposes and
 stores it together with the model description and word representation files.
-This copy uses the unix `find` tool and will therefore most likely only
-run on unix systems. You can just comment out that part of the code if you
-are on windows, it is not essential.
+This copy uses the Unix `find` tool and will therefore most likely only
+run on Unix systems. You can just comment out that part of the code if you
+are on Windows, it is not essential.
 
 ## Citing ##
 
